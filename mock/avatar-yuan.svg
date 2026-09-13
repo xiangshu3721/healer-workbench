@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <defs>
+    <linearGradient id="g" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5f7a6a"/>
+      <stop offset="100%" stop-color="#8a9e90"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="80" fill="url(#g)"/>
+  <circle cx="80" cy="62" r="28" fill="#f0f5f2" opacity=".95"/>
+  <ellipse cx="80" cy="128" rx="42" ry="30" fill="#f0f5f2" opacity=".95"/>
+  <text x="80" y="148" text-anchor="middle" font-family="serif" font-size="18" fill="#3d5248" opacity=".5">予</text>
+</svg>

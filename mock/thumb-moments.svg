@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3e8de"/>
+      <stop offset="100%" stop-color="#d4b896"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="8" fill="url(#bg)"/>
+  <circle cx="100" cy="85" r="35" fill="#fffaf5" opacity=".5"/>
+  <text x="100" y="155" text-anchor="middle" font-family="serif" font-size="13" fill="#6e4638">朋友圈附图</text>
+</svg>
