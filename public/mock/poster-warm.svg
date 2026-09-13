@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="640" viewBox="0 0 480 640">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7f1ea"/>
+      <stop offset="100%" stop-color="#e0cbb4"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="640" fill="url(#bg)"/>
+  <circle cx="400" cy="80" r="100" fill="#fffaf5" opacity=".4"/>
+  <circle cx="60" cy="560" r="80" fill="#8b5e4b" opacity=".18"/>
+  <rect x="48" y="48" width="384" height="544" rx="16" fill="none" stroke="#c4a484" stroke-width="1.5" opacity=".5"/>
+  <text x="240" y="160" text-anchor="middle" font-family="serif" font-size="14" fill="#8a7a6c" letter-spacing="4">疗愈师 · 轻语</text>
+  <text x="240" y="280" text-anchor="middle" font-family="serif" font-size="26" fill="#6e4638">边界不是墙</text>
+  <text x="240" y="320" text-anchor="middle" font-family="serif" font-size="26" fill="#6e4638">是一扇可以温柔开关的门</text>
+  <text x="240" y="480" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a7a6c">本周个案位已满 · 下月预约开放中</text>
+  <text x="240" y="560" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#a89080" letter-spacing="2">HEALER WORKBENCH</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <defs>
+    <linearGradient id="g" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a66b63"/>
+      <stop offset="100%" stop-color="#c99a92"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="80" fill="url(#g)"/>
+  <circle cx="80" cy="62" r="28" fill="#fdf6f4" opacity=".93"/>
+  <ellipse cx="80" cy="128" rx="42" ry="30" fill="#fdf6f4" opacity=".93"/>
+  <text x="80" y="148" text-anchor="middle" font-family="serif" font-size="18" fill="#6e3f3a" opacity=".5">晚</text>
+</svg>
